@@ -26,10 +26,10 @@ Web Application Penetration Testing
 Common Web Vulnerabilities
 Security Testing Methodologies
 Defensive Security Fundamentals
-🎯 My Goal
+ My Goal
 To grow as a cybersecurity professional, strengthen my practical security research skills, and contribute to making web applications and digital systems more secure.
 
-🤝 Let's Connect
+ Let's Connect
 I'm always interested in connecting with cybersecurity enthusiasts, researchers, developers, and professionals who share a passion for technology and security.
 
 "Think like an attacker. Test like a researcher. Defend like a professional."
